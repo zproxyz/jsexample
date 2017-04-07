@@ -38,3 +38,5 @@ jspm_packages
 
 # IDE configure files
 .idea/
+/gulpfile.js
+/package.json
